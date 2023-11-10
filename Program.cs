@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Hello this is a TAST
 
             // Teilaufgabe a (Überprüfe, ob die Eingabe im richtigen Bereich liegt).
             // Schleife wird neu gestarted wenn "antwort" kleiner 10 oder größer 10000 ist.
