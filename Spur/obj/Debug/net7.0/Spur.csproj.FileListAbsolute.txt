@@ -1,5 +1,0 @@
-/workspaces/Prog./Spur/obj/Debug/net7.0/Spur.csproj.AssemblyReference.cache
-/workspaces/Prog./Spur/obj/Debug/net7.0/Spur.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/Prog./Spur/obj/Debug/net7.0/Spur.AssemblyInfoInputs.cache
-/workspaces/Prog./Spur/obj/Debug/net7.0/Spur.AssemblyInfo.cs
-/workspaces/Prog./Spur/obj/Debug/net7.0/Spur.csproj.CoreCompileInputs.cache
