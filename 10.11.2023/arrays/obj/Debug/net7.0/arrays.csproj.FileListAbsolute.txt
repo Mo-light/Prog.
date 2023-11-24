@@ -1,0 +1,15 @@
+/workspaces/Prog./arrays/bin/Debug/net7.0/arrays
+/workspaces/Prog./arrays/bin/Debug/net7.0/arrays.deps.json
+/workspaces/Prog./arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/workspaces/Prog./arrays/bin/Debug/net7.0/arrays.dll
+/workspaces/Prog./arrays/bin/Debug/net7.0/arrays.pdb
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.dll
+/workspaces/Prog./arrays/obj/Debug/net7.0/refint/arrays.dll
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.pdb
+/workspaces/Prog./arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/workspaces/Prog./arrays/obj/Debug/net7.0/ref/arrays.dll

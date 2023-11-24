@@ -1,0 +1,5 @@
+/workspaces/Prog./2D-Feld/obj/Debug/net7.0/2D-Feld.csproj.AssemblyReference.cache
+/workspaces/Prog./2D-Feld/obj/Debug/net7.0/2D-Feld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Prog./2D-Feld/obj/Debug/net7.0/2D-Feld.AssemblyInfoInputs.cache
+/workspaces/Prog./2D-Feld/obj/Debug/net7.0/2D-Feld.AssemblyInfo.cs
+/workspaces/Prog./2D-Feld/obj/Debug/net7.0/2D-Feld.csproj.CoreCompileInputs.cache
