@@ -1,0 +1,5 @@
+/workspaces/Prog./klassen/runKlassen/obj/Debug/net7.0/runKlassen.csproj.AssemblyReference.cache
+/workspaces/Prog./klassen/runKlassen/obj/Debug/net7.0/runKlassen.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Prog./klassen/runKlassen/obj/Debug/net7.0/runKlassen.AssemblyInfoInputs.cache
+/workspaces/Prog./klassen/runKlassen/obj/Debug/net7.0/runKlassen.AssemblyInfo.cs
+/workspaces/Prog./klassen/runKlassen/obj/Debug/net7.0/runKlassen.csproj.CoreCompileInputs.cache

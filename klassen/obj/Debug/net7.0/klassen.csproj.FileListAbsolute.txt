@@ -1,0 +1,15 @@
+/workspaces/Prog./klassen/bin/Debug/net7.0/klassen
+/workspaces/Prog./klassen/bin/Debug/net7.0/klassen.deps.json
+/workspaces/Prog./klassen/bin/Debug/net7.0/klassen.runtimeconfig.json
+/workspaces/Prog./klassen/bin/Debug/net7.0/klassen.dll
+/workspaces/Prog./klassen/bin/Debug/net7.0/klassen.pdb
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.csproj.AssemblyReference.cache
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.AssemblyInfoInputs.cache
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.AssemblyInfo.cs
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.csproj.CoreCompileInputs.cache
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.dll
+/workspaces/Prog./klassen/obj/Debug/net7.0/refint/klassen.dll
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.pdb
+/workspaces/Prog./klassen/obj/Debug/net7.0/klassen.genruntimeconfig.cache
+/workspaces/Prog./klassen/obj/Debug/net7.0/ref/klassen.dll
